@@ -30,15 +30,13 @@
 - 사용자들로부터 받은 피드백을 분석하여 시스템을 지속적으로 개선해 사용자들의 만족도를 높이는 것이 목표입니다.
 
 ## 🧑‍💻기능소개
-
 추후 추가
 
 ## 🗂️ ERD
-[👉 ERD 보기](https://www.erdcloud.com/d/DXM337Qoi6szTC6Cc)
+<img src="https://github.com/user-attachments/assets/bbb632ee-bca1-47be-94ad-37d69f8e8ba2" width="700"/>
 
 ## 📆 프로젝트 기간
 <img src="https://github.com/user-attachments/assets/562f9643-8ce2-4ea5-af85-2f6a6d357300" width="700"/>
-
 
 ## ⚒️ 기술스택
 
@@ -56,6 +54,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
 </p>
+
+## 🎥 시연 영상  
+[![시연 영상 썸네일](https://img.youtube.com/vi/H0W8nFf_Q58/0.jpg)](https://www.youtube.com/watch?v=H0W8nFf_Q58)
 
 
 ## 👯‍♂️ 팀원
