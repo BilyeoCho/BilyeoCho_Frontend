@@ -36,10 +36,9 @@
 ## 🗂️ ERD
 [👉 ERD 보기](https://www.erdcloud.com/d/DXM337Qoi6szTC6Cc)
 
-
-
 ## 📆 프로젝트 기간
-<img src="https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660" width="700"/>
+<img src="https://github.com/user-attachments/assets/562f9643-8ce2-4ea5-af85-2f6a6d357300" width="700"/>
+
 
 ## ⚒️ 기술스택
 
