@@ -1,4 +1,5 @@
 ## BilyeoCho - 빌려조
+
  
 ## 🙋 소개
 특정 기간에만 필요한 물품(ex. 캠핑용품, 카메라)의 경우 구매보다는 대여가 효율적입니다.
@@ -11,6 +12,7 @@
 이러한 문제를 해결하고자, 우리 학교만의 물품 대여 서비스를 개발하고자 했습니다. 
 이 서비스는 우리 학교 학생들이 다양한 물품들을 쉽고 간편하게 대여하고 반납할 수 있도록 하는 것, 
 최종적으로는 교내에서의 자원 공유 문화를 확립하는 것을 목표로 했습니다. 
+
 
 ## 🚀 목표
 1. 다양한 물품 대여 시스템 구축
@@ -31,11 +33,14 @@
 ## 🧑‍💻기능소개
 추후 추가
 
+
 ## 🗂️ ERD
 <img src="https://github.com/user-attachments/assets/bbb632ee-bca1-47be-94ad-37d69f8e8ba2" width="700"/>
 
+
 ## 📆 프로젝트 기간
 <img src="https://github.com/user-attachments/assets/562f9643-8ce2-4ea5-af85-2f6a6d357300" width="700"/>
+
 
 ## ⚒️ 기술스택
 
@@ -54,8 +59,10 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
 </p>
 
+
 ## 🎥 시연 영상  
 [![시연 영상](https://img.youtube.com/vi/H0W8nFf_Q58/maxresdefault.jpg)](https://www.youtube.com/watch?v=H0W8nFf_Q58)
+
 
 ## 👯‍♂️ 팀원
 <div style="overflow: hidden;">
