@@ -34,7 +34,7 @@
 추후 추가
 
 ## 🗂️ ERD
-<img src="https://github.com/user-attachments/assets/2e80c181-ecf1-40ae-9713-85806c2ac2b9" width="700"/>
+<img src="https://www.erdcloud.com/d/DXM337Qoi6szTC6Cc" width="700"/>
 
 
 ## 📆 프로젝트 기간
