@@ -12,7 +12,6 @@
 이 서비스는 우리 학교 학생들이 다양한 물품들을 쉽고 간편하게 대여하고 반납할 수 있도록 하는 것, 
 최종적으로는 교내에서의 자원 공유 문화를 확립하는 것을 목표로 했습니다. 
 
-
 ## 🚀 목표
 1. 다양한 물품 대여 시스템 구축
 
@@ -56,8 +55,7 @@
 </p>
 
 ## 🎥 시연 영상  
-[![시연 영상 썸네일](https://img.youtube.com/vi/H0W8nFf_Q58/0.jpg)](https://www.youtube.com/watch?v=H0W8nFf_Q58)
-
+[![시연 영상](https://img.youtube.com/vi/H0W8nFf_Q58/maxresdefault.jpg)](https://www.youtube.com/watch?v=H0W8nFf_Q58)
 
 ## 👯‍♂️ 팀원
 <div style="overflow: hidden;">
