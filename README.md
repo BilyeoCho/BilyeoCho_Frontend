@@ -34,7 +34,8 @@
 추후 추가
 
 ## 🗂️ ERD
-<img src="https://www.erdcloud.com/d/DXM337Qoi6szTC6Cc" width="700"/>
+[👉 ERD 보기](https://www.erdcloud.com/d/DXM337Qoi6szTC6Cc)
+
 
 
 ## 📆 프로젝트 기간
