@@ -65,19 +65,19 @@
       <tr>
         <td align="center">
           <a href="https://github.com/Sungw0o">
-            <img src="https://github.com/user-attachments/assets/41b7f89f-817e-408a-8eba-ca3aab0b2c26" width="100px;" alt=""/><br />
+            <img src="https://avatars.githubusercontent.com/Sungw0o" width="100px;" alt="Sungw0o"/><br />
             <sub><b>BE 팀장 : 장성우</b></sub>
           </a><br />
         </td>
         <td align="center">
           <a href="https://github.com/xxlsheep">
-            <img src="https://github.com/user-attachments/assets/96b3992e-4f0d-48e4-bbc6-4b6ef1259ba2" width="100px;" alt=""/><br />
+            <img src="https://avatars.githubusercontent.com/xxlsheep" width="100px;" alt="xxlsheep"/><br />
             <sub><b>BE 팀원 : 김태양</b></sub>
           </a><br />
         </td>
         <td align="center">
           <a href="https://github.com/HeyJunN">
-            <img src="https://github.com/user-attachments/assets/dde32e60-2a25-4874-85f1-ac946a69068a" width="100px;" alt=""/><br />
+            <img src="https://avatars.githubusercontent.com/HeyJunN" width="100px;" alt="HeyJunN"/><br />
             <sub><b>FE 팀장이자 팀원 : 정준서</b></sub>
           </a><br />
         </td>
